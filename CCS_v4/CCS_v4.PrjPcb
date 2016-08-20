@@ -138,7 +138,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OEOITSAY
 
 [Document7]
 DocumentPath=..\AltiumLibraries\Capacitors\Schematic Libraries\Generic 0603 Capacitor.SchLib
@@ -172,7 +172,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BOOMMBCI
 
 [Document9]
 DocumentPath=..\AltiumLibraries\Communication ICs\PCB Libraries\Microchip MCP2562.PcbLib
@@ -1331,23 +1331,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document77]
-DocumentPath=..\..\Lights-Controller-Hardware\Generic IO.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document78]
 DocumentPath=12V Input Circuitry.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1364,7 +1347,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NUOFXEXN
 
-[Document79]
+[Document78]
 DocumentPath=12V Input Circuitry.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1381,7 +1364,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document80]
+[Document79]
 DocumentPath=Connectors.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1398,7 +1381,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document81]
+[Document80]
 DocumentPath=Power.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1415,7 +1398,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document82]
+[Document81]
 DocumentPath=CCS_V4.0.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
